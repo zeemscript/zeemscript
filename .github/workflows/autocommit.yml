@@ -1,30 +1,33 @@
-name: Auto Commit Activity
+name: Green Box Commit Hack
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # runs every 6 hours
-  workflow_dispatch:
+    - cron: "0 */2 * * *"   # every 2 hours (you can tweak)
+  workflow_dispatch:         # allows manual trigger
+
+permissions:
+  contents: write
 
 jobs:
-  build:
+  auto-commit:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v3
 
       - name: Make changes
         run: |
-          date >> activity.log
-          echo "Commit at $(date)" >> activity.log
+          echo "Last updated: $(date)" > activity.log
 
       - name: Commit changes
         run: |
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add .
-          git commit -m "Automated commit on $(date)" || echo "No changes to commit"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add activity.log
+          git commit -m "chore: auto-update at $(date)" || echo "No changes to commit"
 
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main   
