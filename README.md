@@ -2,7 +2,7 @@
 <h1 align="left">👋 Hi, I'm Sakariyah Abdulhazeem</h1>
 <h3 align="left">Full-Stack Developer | AI Enthusiast | Security-Minded Builder</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://abdulhazeem.vercel.app">🌐 Portfolio</a> •
   <a href="https://twitter.com/zeemscript">🐦 Twitter</a> •
   <a href="mailto:sakariyahabdulhazeem@gmail.com">✉️ Email</a>
@@ -18,26 +18,26 @@
 ---
 
 ## 🛠️ Tech Stack
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,typescript,python,tailwind,aws,firebase,git,linux" />
 </p>
 
 ---
 
 ## 📊 GitHub Performance
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=zeemscript&show_icons=true&hide_border=true&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeemscript&layout=compact&hide_border=true&theme=radical" height="150"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=zeemscript&theme=radical&hide_border=true" height="150"/>
 </p>
 
 ---
 
 ## 🏆 Achievements & Trophies
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=zeemscript&theme=dracula&no-frame=true&row=1&column=6" />
 </p>
 
