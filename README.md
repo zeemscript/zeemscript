@@ -1,6 +1,6 @@
 <!-- Header -->
-<h1 align="center">👋 Hi, I'm Sakariyah Abdulhazeem</h1>
-<h3 align="center">Full-Stack Developer | AI Enthusiast | Security-Minded Builder</h3>
+<h1 align="left">👋 Hi, I'm Sakariyah Abdulhazeem</h1>
+<h3 align="left">Full-Stack Developer | AI Enthusiast | Security-Minded Builder</h3>
 
 <p align="center">
   <a href="https://abdulhazeem.vercel.app">🌐 Portfolio</a> •
