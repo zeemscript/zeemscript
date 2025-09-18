@@ -19,26 +19,7 @@
 
 ## 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,typescript,python,tailwind,aws,firebase,git,linux" />
-</p>
-
----
-
-## 📊 GitHub Performance
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeemscript&show_icons=true&hide_border=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeemscript&layout=compact&hide_border=true&theme=radical" height="150"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zeemscript&theme=radical&hide_border=true" height="150"/>
-</p>
-
----
-
-## 🏆 Achievements & Trophies
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=zeemscript&theme=dracula&no-frame=true&row=1&column=6" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,javascript,typescript,python,tailwind,aws,firebase,git,linux,postgres,nestjs,azure,aws" />
 </p>
 
 ---
