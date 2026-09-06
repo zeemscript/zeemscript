@@ -5,7 +5,6 @@
 <p align="left">
   <a href="https://abdulhazeem.vercel.app">🌐 Portfolio</a> •
   <a href="https://twitter.com/zeemscript">🐦 Twitter</a> •
-  <a href="mailto:sakariyahabdulhazeem@gmail.com">✉️ Email</a>
 </p>
 
 ---
