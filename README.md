@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Sakariyah Abdulhazeem 👋</h1>
-<h3 align="left">Senior Full-Stack Software Developer · Application Security Engineer</h3>
+<h3 align="left">Senior Full-Stack Software Developer · Application Security Engineer · Open Source Maintainer</h3>
 
 <p align="left">
   I design and build secure, scalable web products end to end, from polished frontends to the APIs and infrastructure behind them, and I think about how they could be attacked before anyone else does.
@@ -54,7 +54,11 @@ Currently at **Demz Analytics**. Previously a full-stack AI developer at Utom AI
 
 ### 🌍 Open source
 
-I contribute to security and blockchain projects, including the **OWASP Cheat Sheet Series**, **OWASP Nettacker**, **MISP**, **Sigma**, **Wazuh** and the **Stellar** ecosystem.
+**Maintainer** of open-source projects including **[TrustMint](https://github.com/zeemscript/TrustMint)**, **[Parallax](https://github.com/zeemscript/Parallax)** and **[BlockRoll](https://github.com/zeemscript/block-roll)**: I review pull requests, triage issues and guide new contributors.
+
+**Contributor** to security and blockchain projects, including the **OWASP Cheat Sheet Series**, **OWASP Nettacker**, **MISP**, **Sigma**, **Wazuh** and the **Stellar** ecosystem.
+
+Issues and pull requests on my projects are always welcome.
 
 ---
 
