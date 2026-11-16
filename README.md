@@ -1,8 +1,8 @@
 <h1 align="left">Hi, I'm Sakariyah Abdulhazeem 👋</h1>
-<h3 align="left">Senior Frontend Developer · AI Engineer · Application Security</h3>
+<h3 align="left">Senior Full-Stack Software Developer · Application Security Engineer</h3>
 
 <p align="left">
-  I build fast, polished web products, wire AI into them, and think about how they could be attacked before anyone else does.
+  I design and build secure, scalable web products end to end, from polished frontends to the APIs and infrastructure behind them, and I think about how they could be attacked before anyone else does.
   Based in Nigeria 🇳🇬, working remotely.
 </p>
 
@@ -16,12 +16,12 @@
 
 ### ⚡ What I do
 
-- **Frontend & full-stack:** Next.js, React and TypeScript apps that are fast, accessible and good-looking, backed by Node.js, NestJS or Django APIs.
-- **AI engineering:** LLM features, agents and AI-powered products, from prompt design to production.
-- **Application security:** secure coding, API security and vulnerability scanning, guided by OWASP.
+- **Full-stack development:** production apps with Next.js, React and TypeScript on the front, and Node.js, NestJS, Django or FastAPI on the back, with PostgreSQL, MongoDB and Redis.
+- **Application security:** secure code review, API security, vulnerability assessment and penetration testing, guided by OWASP.
+- **AI engineering:** LLM features, agents and AI-powered products, built with security in mind.
 - **Web3:** smart-contract-backed apps on Stellar (Soroban) and EVM chains.
 
-Currently **Senior Frontend Developer at Demz Analytics**. Previously a full-stack AI developer at Utom AI.
+Currently at **Demz Analytics**. Previously a full-stack AI developer at Utom AI.
 
 ---
 
